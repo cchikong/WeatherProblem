@@ -9,7 +9,7 @@ package testgit;
  * @author Chan
  */
 public class NewClass {
-    static int x=3;
+    static int x=33;
     
     public static void test() {
         System.out.println(x);

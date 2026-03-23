@@ -17,6 +17,7 @@ public class TestGit {
         // TODO code application logic here
         System.out.println("Hi");
         System.out.println("Hi2");
+        System.out.println("Hi3");
         NewClass.test();
         
     }
