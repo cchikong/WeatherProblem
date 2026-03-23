@@ -13,6 +13,7 @@ public class NewClass {
     
     public static void test() {
         System.out.println(x);
+        System.out.println("honey!");
         
     }
     
